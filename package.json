@@ -1,6 +1,6 @@
 {
   "name": "@dearcury/com-utils",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Commission system shared utilities (amount formatter, etc.)",
   "type": "module",
   "main": "./dist/index.cjs",
