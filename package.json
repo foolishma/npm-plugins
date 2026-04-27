@@ -47,6 +47,10 @@
     "amount",
     "commission"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foolishma/npm-plugins"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=16"
